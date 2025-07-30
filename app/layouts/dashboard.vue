@@ -6,7 +6,7 @@ const isActive = (href) => route.path === href;
 const navItems = [
   { name: "Dashboard", href: "/dashboard" },
   { name: "Blogs", href: "/dashboard/blogs" },
-  // { name: "Projects", href: "/projects" },
+  { name: "Users", href: "/dashboard/users" },
   // { name: "Calendar", href: "/calendar" },
 ];
 </script>
